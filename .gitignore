@@ -1,0 +1,18 @@
+# Visual Studio cache directory
+.vs/
+
+assimp/
+x64/
+packages/
+Debug/
+Release/
+freeglut/
+glew-1.10.0/
+glm/
+*.dae
+Laboratory1*
+*.obj
+*.jpg
+*.png
+*.mtl
+*.fbx
